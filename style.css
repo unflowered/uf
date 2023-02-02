@@ -31,7 +31,9 @@ body {
   font-weight: 100;
 }
 .box p{
-  text-align: justify;
+  font-size: 17px;
+  letter-spacing: 3px;
+  font-weight: 100;
 }
 ul{
   margin: 0;
